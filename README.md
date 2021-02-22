@@ -1,6 +1,6 @@
 <h1>Discord Rich Presence</h1>
 
-**Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/" width="300" height="250">**Sahip Olmanız**</a> **Gerekmektedir.**
+**Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> **Gerekmektedir.**
 
 <h2>Kurulum<h2>
   
@@ -10,7 +10,7 @@
 
 **Ardından Büyük Ve Küçük Resimler Ekliyoruz İsimlerini Koymak Size Kalmış Küçük Resim Maximum 512x512 Büyük İse Maksimum 1024x1024 Boyutunda Olmalıdır**
 
-<img src="https://cdn.discordapp.com/attachments/698155104804798524/813471489231159296/2.png" width="300" height="250">
+<img src="https://cdn.discordapp.com/attachments/698155104804798524/813471489231159296/2.png" width="400" height="350">
 
 **Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız.**
 
