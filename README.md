@@ -18,6 +18,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
-**Artık Bütün İşlemler Tamam, Şimdi <a href="https://github.com/tunadnz/discord-rpc/blob/main/index.js" target="blank__">**index.js**</a> Dosyasına Gelip Gerekli Bilgileri Doldurun Sonra Tek Yapmanız Gereken <a href="https://github.com/tunadnz/discord-rpc/blob/main/ba%C5%9Flat.bat" target="blank__">**baslat.bat**</a> Dosyasını Açmaktır Aşağıdaki Resimde Olduğu Gibi Gözükecektir Güle Güle Kullanın.**
+**Artık Bütün İşlemler Tamam, Şimdi <a href="https://github.com/tunadnz/discord-rpc/blob/main/index.js" target="blank__">**index.js**</a> Dosyasına Gelip Gerekli Bilgileri Doldurun Ardından Tek Yapmanız Gereken <a href="https://github.com/tunadnz/discord-rpc/blob/main/ba%C5%9Flat.bat" target="blank__">**baslat.bat**</a> Dosyasını Açmaktır Aşağıdaki Resimde Olduğu Gibi Gözükecektir Güle Güle Kullanın.**
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813468550999703593/goruntu.png">
