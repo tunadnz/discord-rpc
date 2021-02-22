@@ -2,7 +2,7 @@
 
 Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">Sahip Olmanız</a> Gerekmektedir.
 
-# Kurulum Öğreticisi
+## Kurulum Öğreticisi
   
 Botumuza Geliyoruz Ve Sol Tarafta Bulunan Rich Presence Butonuna Tıklıyoruz
   
