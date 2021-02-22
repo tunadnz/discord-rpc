@@ -1,7 +1,7 @@
-const rpc = require("discord-rpc")
+const RPC = require("discord-rpc")
 const clientId = 'CLIENT ID';
 
-const client = new rpc.Client({ transport: 'ipc' })
+const client = new RPC.Client({ transport: 'ipc' })
 
 client.on('ready', () => {
 client.setActivity({
