@@ -10,11 +10,11 @@
 
 **Ardından Büyük Ve Küçük Resimler Ekliyoruz İsimlerini Koymak Size Kalmış Küçük Resim Maximum 512x512 Büyük İse Maksimum 1024x1024 Boyutunda Olmalıdır**
 
-<img src="https://cdn.discordapp.com/attachments/698155104804798524/813471489231159296/2.png">
+<img src="https://cdn.discordapp.com/attachments/698155104804798524/813471489231159296/2.png" width="300" height="250">
 
-**Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız**
+**Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız.**
 
-**Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz**
+<h2>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz<h2>
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
