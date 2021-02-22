@@ -1,8 +1,8 @@
-# Discord Rich Presence
+<h1>Discord Rich Presence</h1>
 
 **Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> **Gerekmektedir.**
 
-## Kurulum Öğreticisi
+<h3>Kurulum Öğreticisi</h3>
   
 **Botumuza Geliyoruz Ve Sol Tarafta Bulunan Rich Presence Butonuna Tıklıyoruz**
   
@@ -14,7 +14,7 @@
 
 **Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız.**
 
-## Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz
+<h3>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz</h3>
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
