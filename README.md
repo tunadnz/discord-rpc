@@ -14,7 +14,7 @@
 
 **Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız.**
 
-<h1>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz</h1>
+<h2>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz</h2>
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
