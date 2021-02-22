@@ -2,7 +2,7 @@
 
 **Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> **Gerekmektedir.**
 
-<h2>Kurulum<h2>
+<h2>Kurulum Öğreticisi<h2>
   
 **Botumuza Geliyoruz Ve Sol Tarafta Bulunan Rich Presence Butonuna Tıklıyoruz**
   
