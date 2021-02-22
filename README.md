@@ -1,8 +1,8 @@
-<h1>Discord Rich Presence</h1>
+# Discord Rich Presence
 
 Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">Sahip Olmanız</a> Gerekmektedir.
 
-<h2>Kurulum Öğreticisi<h2>
+# Kurulum Öğreticisi
   
 Botumuza Geliyoruz Ve Sol Tarafta Bulunan Rich Presence Butonuna Tıklıyoruz
   
