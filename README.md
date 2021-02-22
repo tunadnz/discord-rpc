@@ -2,7 +2,7 @@
 
 **Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> **Gerekmektedir.**
 
-<h3>Kurulum Öğreticisi</h3>
+<h2>Kurulum Öğreticisi</h2>
   
 **Botumuza Geliyoruz Ve Sol Tarafta Bulunan Rich Presence Butonuna Tıklıyoruz**
   
@@ -14,7 +14,7 @@
 
 **Resim İşlemleri Tamamdır Şimdi Botumuzun Kimliğini Kopyalayacağız Ve Gerekli Bilgileri Dolduracağız.**
 
-<h3>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz</h3>
+<h1>Sol Tarafta bulunan General Information Butonuna Tıklıyoruz Ardından Karşımıza Çıkan Sayfada CLIENT ID'yi Kopyalıyoruz</h1>
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
