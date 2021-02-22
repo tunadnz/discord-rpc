@@ -18,6 +18,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813472579762913301/3.png">
 
-**Artık Bütün İşlemler Tamam, Şimdi index.js Dosyasına Gelip Gerekli Bilgileri Doldurun Sonra Tek Yapmanız Gereken başlat.bat Dosyasını Açmaktır Aşağıdaki Resimde Olduğu Gibi Gözükecektir Güle Güle Kullanın.**
+Artık Bütün İşlemler Tamam, Şimdi index.js Dosyasına Gelip Gerekli Bilgileri Doldurun Sonra Tek Yapmanız Gereken başlat.bat Dosyasını Açmaktır Aşağıdaki Resimde Olduğu Gibi Gözükecektir Güle Güle Kullanın.
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813468550999703593/goruntu.png">
