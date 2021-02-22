@@ -1,6 +1,6 @@
 # Discord Rich Presence
 
-**Gereken Alanları Doldurabilmek İçin Bir Discord Botuna <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> Gerekmektedir.**
+**Gereken Alanları Doldurabilmek İçin Bir Discord Botuna** <a href="https://discord.com/developers/applications/">**Sahip Olmanız**</a> **Gerekmektedir.**
 
 ## Kurulum Öğreticisi
   
