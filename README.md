@@ -8,7 +8,7 @@
   
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813471174365413376/1.png">
 
-**Ardından Büyük Ve Küçük Resimler Ekliyoruz İsimlerini Koymak Size Kalmış Küçük Resim Maximum 512x512 Büyük İse Maksimum 1024x1024 Boyutunda Olmalıdır**
+**Ardından Büyük Ve Küçük Resimler Ekliyoruz İsimlerini Koymak Size Kalmış Küçük Resim Maximum 512x512 Büyük İse Maksimum 1024x1024 Boyutunda Olmalıdır Resimleri Eklemek Size Kalmış**
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813471489231159296/2.png" width="400" height="350">
 
