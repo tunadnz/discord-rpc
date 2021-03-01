@@ -21,4 +21,5 @@
 **Artık Bütün İşlemler Tamam, Şimdi <a href="https://github.com/tunadnz/discord-rpc/blob/main/index.js" target="blank__">**index.js**</a> Dosyasına Gelip Gerekli Bilgileri Doldurun Ardından Tek Yapmanız Gereken <a href="https://github.com/tunadnz/discord-rpc/blob/main/ba%C5%9Flat.bat" target="blank__">**başlat.bat**</a> Dosyasını Açmaktır Aşağıdaki Resimde Olduğu Gibi Gözükecektir Güle Güle Kullanın.**
 
 <img src="https://cdn.discordapp.com/attachments/698155104804798524/813468550999703593/goruntu.png">
+<h3>İletişim İçin Gerekli Bilgilerim</h3>
 <a href="https://discord.gg/rVnKDGcRKR" target="blank__">Discord</a>
