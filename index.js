@@ -14,7 +14,7 @@ largeImageKey: 'BÜYÜK RESİMİN ADI', // Büyük Resiminiz Yoksa/Eklemediyseni
 largeImageText: 'YAZI', // Fare İmleci Resimin Üzerine Gelince Çıkan Yazı
 smallImageKey: 'KÜÇÜK RESİMİN ADI', // Küçük Resiminiz Yoksa/Eklemediyseniz Silebilirsiniz
 smallImageText: 'YAZI', // Fare İmleci Resimin Üzerine Gelince Çıkan Yazı
-buttons : [{ label : "Sunucuya Katıl" , url : "SUNUCU DAVETI"}], // İsteğe Bağlı Buton Ekleyebilirsiniz
+buttons : [{ label : "Sunucuya Katıl" , url : "SUNUCU DAVETI" }], // İsteğe Bağlı Buton Ekleyebilirsiniz
 instance: true,
 })
 });
